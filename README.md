@@ -11,14 +11,9 @@
 <p align="center"> <a href="https://aymanullah.github.io/index.html"> <img src="https://img.shields.io/badge/🌐%20Visit Website%20🔍%20>>>-blue?style=for-the-badge" alt="visitors" height="50" width="400"/></a> </p> </div>
 <br/>
 <br/>
+<p align="center">Follow the website address👇</p>
 <br/>
-<h3 align="center"> 🔗 Connect with me 🔗 </h3>
-<p align="center">
-<a href="https://linkedin.com/in/ayman-ullah" target="_blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg" alt="ayman-ullah linkedin profile" height="40" width="40" /></a>
-<a href="https://fb.com/aymanullah.bd" target="_blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/2023_Facebook_icon.svg/600px-2023_Facebook_icon.svg.png" alt="aymanullah.bd" height="40" width="40" /></a>
-<a href="mailto:aymanullah8629@gmail.com"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/800px-Gmail_icon_%282020%29.svg.png" alt="E-mail" height="40" width="50" /></a>
-
-</p>
+<p align="center"> <a href="https://aymanullah.github.io/index.html"> aymanullah.github.io </a></p>
 <br/>
 <br/>
 <br/>
