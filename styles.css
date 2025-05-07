@@ -1988,7 +1988,7 @@ height: 150px;
   align-items: center;
   justify-content: center;
   height: auto; /* Full viewport height */
-  background-color: #ffffffd5; /* Dark background for contrast */
+  background-color: var(--current-bg); /* Dark background for contrast */
   border-radius: 20px;
 }
 
@@ -1998,6 +1998,7 @@ height: 150px;
   padding: 10px 20px;
   font-size: 16px;
   color: var(--current-text);
+   
   border: none;
   background: transparent;
   cursor: pointer;
