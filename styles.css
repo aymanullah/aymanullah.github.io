@@ -1039,7 +1039,7 @@ height: 150px;
 }
 
 .date {
-  margin-right: 20px; /* Add spacing between date and language button */
+  margin-right: 11px; /* Add spacing between date and language button */
 }
 .date:hover {
   color: #f6fa00; /* Slightly darker on hover */
